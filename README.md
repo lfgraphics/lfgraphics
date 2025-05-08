@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working in Indian Tankers Pvt. Ltd. @ Software engineer role<br>👯 I’m looking to collaborate on my Prayer Mate project which is about finding mosques near you and by name, location etc. to know the most recent prayer times and the prayer times will be updated by the imam, the project is 80% completed let's discuss on further 20%<br>🤝 I’m looking for help with some Geocoordinates & mongo db knowledge<br>🌱 I’m currently learning React Native and electron js for deeper under standing
-
+🔭 I’m currently working in Indian Tankers Pvt. Ltd. @ Software engineer role
+<br>
+I'm looking for a better job opportunity, let me know if you see a post according to me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taha.kazmi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-kazmi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahakazmi@outlook.in) 
