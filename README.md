@@ -1,6 +1,6 @@
 # Taha Kazmi
 
-Full Stack Engineer focused on backend systems, automation, and scalable application architecture.
+AI-Augmented Full Stack Engineer focused on backend systems, automation, and scalable application architecture.
 
 Currently building operational systems at Indian Tankers Pvt. Ltd. and developing reusable open-source tooling.
 
