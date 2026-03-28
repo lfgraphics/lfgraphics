@@ -1,54 +1,90 @@
 # Taha Kazmi
 
-AI-Augmented Full Stack Engineer focused on backend systems, automation, and scalable application architecture.
-
-Currently building operational systems at Indian Tankers Pvt. Ltd. and developing reusable open-source tooling.
+Building scalable systems that replace manual operations at scale.
 
 ---
 
-## What I Do
+## 🚀 Flagship System — FeeEase
 
-- Design and deploy production-grade Full Stack systems
-- Build automation layers that replace manual workflows
-- Develop reusable internal tooling and CLI utilities
-- Architect scalable APIs and database structures
-- Ship end-to-end applications across web, mobile and desktop
+A production-ready SaaS ecosystem for small to mid-sized schools.
 
----
+**Impact:**
 
-## Highlighted Work
+* Handles **100–1000 students per school**
+* Reduces manual fee handling workload by **70–90%**
+* Automates **100% of receipt generation and reminders**
+* Cuts admin processing time from hours → **minutes**
 
-- Core Management System of Indian Tankers Pvt. Ltd.  
-  Built a system managing 2000+ vehicles and 50+ fuel bowsers with real-time accounting integration. Eliminating need of manual data entry and reducing errors by 80%, reducing operational costs by 30%.
+**What it is:**
 
-- CVIANS (npm library + CLI)  
-  Open-source reusable component & automation toolkit used across my projects and helping other developers to build their own tools.
+* Central platform for onboarding, licensing, and access control
+* Modular architecture separating control and execution layers
 
----
+**Structure:**
 
-## Core Stack
-
-**Backend:** Node.js, Express, REST APIs  
-**Databases:** MongoDB, PostgreSQL  
-**Frontend:** Next.js, React, TypeScript, Tailwind, React Native (Expo), Expo SDK, Electron js
-**Automation & DevOps:** CI/CD, GitHub Actions, system integration
+* **FeeEase (Control Layer)** → onboarding, licensing, access
+* **School Management (Core Engine)** → fees, students, attendance, operations
 
 ---
 
-## Philosophy
+## 🧠 Systems in Progress
 
-I focus on building systems that:
+### Bowser (Transport Operations Platform)
 
-- Reduce operational friction  
-- Replace manual processes
-- Scale cleanly
-- Remain maintainable long term
+A large-scale system replacing legacy accounting and operations software for a transport company managing **1000+ tankers**.
 
-I prioritize automation, and practical architecture over trend adoption.
+**Impact:**
+
+* Digitizing **100% of trip and fuel workflows**
+* Eliminates manual Excel/accounting dependency
+* Processes **hundreds of daily trip entries**
+* Reduces reconciliation errors significantly
+
+**Architecture:**
+
+* Microservices-based backend
+* Web platform for operations, billing, cashier roles
+* Native mobile app for drivers
+* Desktop bridge syncing with Tally
 
 ---
 
-## Connect
+### Khadimemillat (Organizational Platform)
 
-LinkedIn: <https://linkedin.com/in/taha-kazmi>  
-Email: <tahakazmi@outlook.in>
+A full-scale operational system for a nonprofit organization.
+
+**Impact:**
+
+* Manages **end-to-end donation lifecycle**
+* Tracks **100% financial flow (donation → expense)**
+* Automates multi-channel communication (email, SMS, WhatsApp)
+* Reduces manual coordination overhead by **60–80%**
+
+**Scope:**
+
+* donations, sponsorships, expense tracking
+* marketplace workflows (scrap-to-funds)
+* structured member and communication system
+
+---
+
+## ⚙️ Other Systems
+
+* **Jahannuma** → multilingual digital library handling **structured literary content at scale** with SEO + PWA architecture
+* **Cvians** → reusable TypeScript UI toolkit reducing UI development effort by **30–50%**
+
+---
+
+## 🏗️ Approach
+
+* system-first thinking over feature-first development
+* builds designed for **scale, not demos**
+* automation over manual workflows
+* cost-performance optimized systems
+
+---
+
+## 🧩 Stack
+
+TypeScript • Next.js • Node.js • MongoDB
+System design • SaaS architecture • workflow automation
