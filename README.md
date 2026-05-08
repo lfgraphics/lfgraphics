@@ -4,13 +4,29 @@ Building scalable systems that replace manual operations at scale.
 
 ---
 
-## 🚀 Flagship System — FeeEase
+## 🏗️ Approach
 
-A production-ready SaaS ecosystem for small to mid-sized schools.
+* system-first thinking over feature-first development
+* builds designed for **scale, not demos**
+* automation over manual workflows
+* cost-performance optimized systems
+
+---
+
+## 🧩 Stack
+
+TypeScript • Next.js • Node.js • MongoDB
+System design • SaaS architecture • workflow automation
+
+---
+
+## 🚀 Flagship System — [FeeEase](https://www.feeease.com)
+
+A SaaS ecosystem for small to mid-sized educational institutes.
 
 **Impact:**
 
-* Handles **100–1000 students per school**
+* Handles **100–1000 students per institute**
 * Reduces manual fee handling workload by **70–90%**
 * Automates **100% of receipt generation and reminders**
 * Cuts admin processing time from hours → **minutes**
@@ -23,13 +39,14 @@ A production-ready SaaS ecosystem for small to mid-sized schools.
 **Structure:**
 
 * **FeeEase (Control Layer)** → onboarding, licensing, access
-* **School Management (Core Engine)** → fees, students, attendance, operations
+* **Institute Management (Core Engine)** → fees, students, attendance, operations
+* **Worker (Worker Engine)** → broadcasts scheduling, biomatric authentication, scheduled jobs excecuter
 
 ---
 
 ## 🧠 Systems in Progress
 
-### Bowser (Transport Operations Platform)
+### Transport Operations Platform
 
 A large-scale system replacing legacy accounting and operations software for a transport company managing **1000+ tankers**.
 
@@ -51,7 +68,7 @@ A large-scale system replacing legacy accounting and operations software for a t
 
 ### Khadimemillat (Organizational Platform)
 
-A full-scale operational system for a nonprofit organization.
+A full-scale operational system for a nonprofit organization (NGO).
 
 **Impact:**
 
@@ -68,23 +85,7 @@ A full-scale operational system for a nonprofit organization.
 
 ---
 
-## ⚙️ Other Systems
+## ⚙️ Other Projects maintaining
 
 * **Jahannuma** → multilingual digital library handling **structured literary content at scale** with SEO + PWA architecture
 * **Cvians** → reusable TypeScript UI toolkit reducing UI development effort by **30–50%**
-
----
-
-## 🏗️ Approach
-
-* system-first thinking over feature-first development
-* builds designed for **scale, not demos**
-* automation over manual workflows
-* cost-performance optimized systems
-
----
-
-## 🧩 Stack
-
-TypeScript • Next.js • Node.js • MongoDB
-System design • SaaS architecture • workflow automation
